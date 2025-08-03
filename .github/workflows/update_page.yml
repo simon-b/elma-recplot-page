@@ -1,0 +1,67 @@
+name: Update content
+on: 
+  schedule:
+    - cron: "0 16 * * *"
+  workflow_dispatch: 
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  update-page-source:
+    name: "Update pages source"
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+        with:
+          version: "0.8.4"
+          activate-environment: true
+
+      - name: Instal elma-recplot
+        run: |
+          uv pip install "git+https://github.com/simon-b/elma-recplot.git"
+      - name: Update pages
+        run: | 
+          elma-recplot make-page --num 1 --rec-dir docs/recs --index-dir docs/_posts
+
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: '["docs/_posts", "docs/recs"]'
+          message: 'Create recent recs'
+   
+
+  build:
+    runs-on: ubuntu-latest
+    needs: update-page-source
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./docs
+          destination: ./_site
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    permissions:
+      pages: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
