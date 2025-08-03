@@ -1,0 +1,9 @@
+<ul>
+  {% for rec in site.static_files %}
+    {% if rec.path contains 'recs/' and rec.extname == '.html' %}
+      <li>
+        <a href="{{ rec.path | relative_url }}">{{ rec.basename | escape | remove: rec.extname }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
