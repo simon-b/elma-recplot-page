@@ -29,7 +29,7 @@ jobs:
           uv pip install "git+https://github.com/simon-b/elma-recplot.git"
       - name: Update pages
         run: | 
-          elma-recplot make-page --num 1 --rec-dir docs/recs --index-dir docs/_posts
+          elma-recplot make-page --num 20 --rec-dir docs/recs --index-dir docs/_posts
 
       - uses: EndBug/add-and-commit@v9
         with:
