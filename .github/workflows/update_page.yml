@@ -1,0 +1,23 @@
+name: Example
+on: [push]
+jobs:
+  update-page-source:
+    name: "Update pages"
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+        with:
+          version: "0.8.4"
+          activate-environment: true
+
+      - name: Instal elma-recplot
+        run: |
+          uv pip install "git+https://github.com/simon-b/elma-recplot.git"
+      - name: Update pages
+        working-directory: ./docs
+        run: | 
+          elma-recplot make-page --num 1 --rec-dir recs --index-dir _posts
