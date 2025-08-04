@@ -35,14 +35,7 @@ jobs:
         with:
           add: '["docs/_posts", "docs/recs"]'
           message: 'Create recent recs'
-   
 
-  build:
-    runs-on: ubuntu-latest
-    needs: update-page-source
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
@@ -61,7 +54,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: build
+    needs: update-page-source
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
