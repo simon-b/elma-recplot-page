@@ -1,0 +1,22 @@
+| Date                | Lev      | Kuski      |   Time (s) | Static rec                                        |
+|:--------------------|:---------|:-----------|-----------:|:--------------------------------------------------|
+| 2025-08-09 00:04:31 | stepi092 | pawq       |     28.63  | [stepi092paw2863.html](recs/stepi092paw2863.html) |
+| 2025-08-08 19:13:02 | maxdu160 | Frame      |     44.518 | [maxdu160_684Fra.html](recs/maxdu160_684Fra.html) |
+| 2025-08-08 18:17:02 | QWQUU006 | igge       |     31.336 | [06ig3133.html](recs/06ig3133.html)               |
+| 2025-08-08 15:46:06 | muiz7498 | Sick_Mambo |     23.46  | [muiz7498sm.html](recs/muiz7498sm.html)           |
+| 2025-08-08 12:06:52 | jey943   | Frame      |      7.633 | [jey943miss.html](recs/jey943miss.html)           |
+| 2025-08-08 11:21:02 | Hogge481 | Hogge      |     30.828 | [hogge481hoggsl1.html](recs/hogge481hoggsl1.html) |
+| 2025-08-08 11:01:29 | Hogge481 | JSmith     |     29.772 | [Hogge481jSL.html](recs/Hogge481jSL.html)         |
+| 2025-08-08 07:21:11 | BC413    | zebra      |    861.97  | [BC413zebr86197.html](recs/BC413zebr86197.html)   |
+| 2025-08-08 01:25:45 | 0lervo18 | Zwirrbel   |    429.74  | [0lervo18Zw42974.html](recs/0lervo18Zw42974.html) |
+| 2025-08-07 22:00:37 | maxdu159 | veezay     |     56.76  | [maxdu159vee5676.html](recs/maxdu159vee5676.html) |
+| 2025-08-07 21:38:43 | jey943   | veezay     |     10.11  | [jey943veez1011.html](recs/jey943veez1011.html)   |
+| 2025-08-07 11:30:58 | Holy8015 | Bjenn      |     18.429 | [Holy8015bj.html](recs/Holy8015bj.html)           |
+| 2025-08-07 04:29:19 | QWQUU030 | know1nos   |     34.764 | [kno30good.html](recs/kno30good.html)             |
+| 2025-08-07 01:56:24 | euro2001 | sunl       |     20.86  | [euro2001sun2086.html](recs/euro2001sun2086.html) |
+| 2025-08-06 22:41:11 | QWQUU030 | know1nos   |     36.342 | [kno30ok.html](recs/kno30ok.html)                 |
+| 2025-08-06 17:29:06 | KcaPol13 | Zwirrbel   |     43.78  | [KcaPol13Zwi4378.html](recs/KcaPol13Zwi4378.html) |
+| 2025-08-06 10:11:51 | jey947   | Astral     |      9.473 | [jey947jo01.html](recs/jey947jo01.html)           |
+| 2025-08-06 04:29:40 | QWQUU046 | Hornet     |     79.1   | [46Horn7910.html](recs/46Horn7910.html)           |
+| 2025-08-06 03:02:04 | QWQUU034 | know1nos   |     41.102 | [kno34ok.html](recs/kno34ok.html)                 |
+| 2025-08-05 22:40:51 | Obekaa9  | BlaZtek    |      7.567 | [Obekaa9LOL.html](recs/Obekaa9LOL.html)           |
