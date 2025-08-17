@@ -1,0 +1,22 @@
+| Date                | Lev      | Kuski      |   Time (s) | Static rec                                        |
+|:--------------------|:---------|:-----------|-----------:|:--------------------------------------------------|
+| 2025-08-16 22:35:48 | maxdu168 | BlaZtek    |     50.94  | [maxdu168Bla5094.html](recs/maxdu168Bla5094.html) |
+| 2025-08-16 22:23:44 | Obekabe1 | BlaZtek    |     30.14  | [Obekabe1Bla3014.html](recs/Obekabe1Bla3014.html) |
+| 2025-08-16 22:06:51 | Obekabe1 | BlaZtek    |     30.83  | [Obekabe1Bla3083.html](recs/Obekabe1Bla3083.html) |
+| 2025-08-16 17:20:16 | Two999   | joey       |    919.26  | [Two999joey91926.html](recs/Two999joey91926.html) |
+| 2025-08-16 12:13:45 | 0ri87115 | BlaZtek    |     30.95  | [0ri87115Bla3095.html](recs/0ri87115Bla3095.html) |
+| 2025-08-16 11:26:17 | theff610 | joey       |   1022.46  | [theff610j102246.html](recs/theff610j102246.html) |
+| 2025-08-16 08:04:44 | QWQUU045 | berh       |      9.433 | [45latb.html](recs/45latb.html)                   |
+| 2025-08-15 22:31:55 | jklspin1 | Sick_Mambo |     41.731 | [jkjlspin1smsl.html](recs/jkjlspin1smsl.html)     |
+| 2025-08-15 20:16:56 | 0ri87115 | BlaZtek    |     31.789 | [0ri87115bz3178.html](recs/0ri87115bz3178.html)   |
+| 2025-08-15 19:25:34 | maxdu163 | Frame      |     51.733 | [maxdu163missed.html](recs/maxdu163missed.html)   |
+| 2025-08-15 18:29:58 | maxdu163 | Frame      |     27.6   | [maxdu163style.html](recs/maxdu163style.html)     |
+| 2025-08-14 22:54:40 | QWQUU029 | Hornet     |     69.79  | [29Horn6979.html](recs/29Horn6979.html)           |
+| 2025-08-14 14:19:42 | 0ri87142 | BlaZtek    |     42.76  | [0ri87142bz4276.html](recs/0ri87142bz4276.html)   |
+| 2025-08-14 02:54:05 | bosom93  | Dorknoob   |    118.711 | [bosom93blah.html](recs/bosom93blah.html)         |
+| 2025-08-13 20:50:12 | 0ffgas20 | Zwirrbel   |    113.49  | [0ffgas20Zw11349.html](recs/0ffgas20Zw11349.html) |
+| 2025-08-13 20:47:16 | maxdu163 | BlaZtek    |     59.112 | [maxdu163bz5911.html](recs/maxdu163bz5911.html)   |
+| 2025-08-13 20:14:22 | QWQUU029 | Hornet     |     75.52  | [29Horn7552.html](recs/29Horn7552.html)           |
+| 2025-08-13 19:25:28 | jey935   | veezay     |     12.87  | [jey935veez1287.html](recs/jey935veez1287.html)   |
+| 2025-08-13 19:17:11 | QWQUU029 | Hornet     |     77.16  | [29Horn7716.html](recs/29Horn7716.html)           |
+| 2025-08-13 16:54:18 | QWQUU029 | kiehi      |     47.426 | [29prokiehi.html](recs/29prokiehi.html)           |
