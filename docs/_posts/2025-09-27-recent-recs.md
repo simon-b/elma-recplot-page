@@ -1,0 +1,22 @@
+| Date                | Lev      | Kuski    |   Time (s) | Static rec                                        |
+|:--------------------|:---------|:---------|-----------:|:--------------------------------------------------|
+| 2025-09-26 22:34:55 | asidfufu | Zero     |      9.733 | [asidfufuZer.html](recs/asidfufuZer.html)         |
+| 2025-09-26 21:36:45 | botch591 | adi      |     85.019 | [botch591adi.html](recs/botch591adi.html)         |
+| 2025-09-26 16:29:56 | ezap031  | Raven    |    178.522 | [ezap031rav.html](recs/ezap031rav.html)           |
+| 2025-09-26 02:24:43 | 0ri88284 | Zero     |     59.466 | [0ri88284zer.html](recs/0ri88284zer.html)         |
+| 2025-09-25 20:51:20 | jey872   | JSmith   |     44.9   | [jey872last.html](recs/jey872last.html)           |
+| 2025-09-25 16:30:01 | TIMMY09  | Keex     |     11.05  | [TIMMY09Keex1105.html](recs/TIMMY09Keex1105.html) |
+| 2025-09-25 11:31:51 | Zro0692  | jaytea   |     24.916 | [zro0692jtsl24.html](recs/zro0692jtsl24.html)     |
+| 2025-09-25 10:58:53 | Hoep590  | schiz    |     20.184 | [hoep590schiz.html](recs/hoep590schiz.html)       |
+| 2025-09-25 07:20:42 | bella27  | BlaZtek  |     21.068 | [Bella27bz2106.html](recs/Bella27bz2106.html)     |
+| 2025-09-25 01:49:16 | QWQUU019 | Hornet   |     42.33  | [19Horn4233.html](recs/19Horn4233.html)           |
+| 2025-09-24 23:23:54 | bella27  | Grace    |     23.333 | [bella27G.html](recs/bella27G.html)               |
+| 2025-09-24 20:28:17 | muiz7471 | umiz     |     99.07  | [muiz7471suppose.html](recs/muiz7471suppose.html) |
+| 2025-09-24 19:28:37 | qaezopk  | Keex     |    888.41  | [qaezopkKee88841.html](recs/qaezopkKee88841.html) |
+| 2025-09-24 18:25:48 | QWQUU008 | Dash     |     20.795 | [Int08Dash2079.html](recs/Int08Dash2079.html)     |
+| 2025-09-24 00:38:14 | xcrap763 | Zwirrbel |     20.02  | [xcrap763Zwi2002.html](recs/xcrap763Zwi2002.html) |
+| 2025-09-23 22:16:19 | FIRST106 | joey     |    505.73  | [FIRST106jo50573.html](recs/FIRST106jo50573.html) |
+| 2025-09-23 21:13:34 | jey888   | Frame    |     27.45  | [jey888rec.html](recs/jey888rec.html)             |
+| 2025-09-23 20:23:40 | 0lut1217 | Keex     |      1.75  | [0lut1217Keex175.html](recs/0lut1217Keex175.html) |
+| 2025-09-23 15:52:01 | QWQUU019 | sunl     |     38.57  | [19sunl3857.html](recs/19sunl3857.html)           |
+| 2025-09-23 15:11:24 | ZrFF0427 | Zero     |   2548.87  | [ZrFF0427zer.html](recs/ZrFF0427zer.html)         |
