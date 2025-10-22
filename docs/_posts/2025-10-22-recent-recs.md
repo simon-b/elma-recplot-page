@@ -1,0 +1,22 @@
+| Date                | Lev      | Kuski      |   Time (s) | Static rec                                        |
+|:--------------------|:---------|:-----------|-----------:|:--------------------------------------------------|
+| 2025-10-21 23:13:21 | jey812   | klaskerlol |     38.267 | [jey812klas3823.html](recs/jey812klas3823.html)   |
+| 2025-10-21 21:49:59 | ayETTL34 | iCS        |     10.2   | [ayETTL34iCS1020.html](recs/ayETTL34iCS1020.html) |
+| 2025-10-21 21:09:31 | elmas375 | Zwirrbel   |    269.16  | [elmas375Zw26916.html](recs/elmas375Zw26916.html) |
+| 2025-10-21 19:36:14 | DAFT064  | iCS        |    150.54  | [DAFT064iCS15054.html](recs/DAFT064iCS15054.html) |
+| 2025-10-21 18:35:37 | xcrap727 | BlaZtek    |     14.82  | [xcrap727Bla1482.html](recs/xcrap727Bla1482.html) |
+| 2025-10-21 00:38:50 | QWQUU042 | Hornet     |     36.28  | [42Horn3628.html](recs/42Horn3628.html)           |
+| 2025-10-20 23:38:37 | xcrap727 | Zwirrbel   |     24.34  | [xcrap727Zwi2434.html](recs/xcrap727Zwi2434.html) |
+| 2025-10-20 20:57:10 | Nio923   | BlaZtek    |     46.63  | [Nio923bz4663.html](recs/Nio923bz4663.html)       |
+| 2025-10-20 16:35:10 | tek163   | TTechnik   |     76.933 | [tek163tte.html](recs/tek163tte.html)             |
+| 2025-10-20 02:12:06 | QWQUU042 | Hornet     |     35.62  | [42Horn3562.html](recs/42Horn3562.html)           |
+| 2025-10-19 22:59:33 | jey821   | veezay     |     14.54  | [jey821veez1454.html](recs/jey821veez1454.html)   |
+| 2025-10-19 15:22:18 | ch5260   | Moonjelly  |     29.133 | [ch5260MJLastTwo.html](recs/ch5260MJLastTwo.html) |
+| 2025-10-19 14:23:17 | ch5259   | iCS        |     24.5   | [ch5259iCS2450.html](recs/ch5259iCS2450.html)     |
+| 2025-10-19 13:10:06 | Old31    | Keex       |    142.15  | [Old31Keex14215.html](recs/Old31Keex14215.html)   |
+| 2025-10-19 12:48:40 | Sadic001 | Keex       |     35.36  | [Sadic001Kee3536.html](recs/Sadic001Kee3536.html) |
+| 2025-10-19 09:13:56 | Nio916   | BlaZtek    |     16.57  | [Nio916BlaZ1657.html](recs/Nio916BlaZ1657.html)   |
+| 2025-10-19 09:13:38 | Nio916   | Ramone     |     17.06  | [Nio916_008Ram.html](recs/Nio916_008Ram.html)     |
+| 2025-10-19 01:03:05 | pleple15 | meng       |    101.367 | [pleple15meng.html](recs/pleple15meng.html)       |
+| 2025-10-18 19:40:38 | Nio912   | Moonjelly  |     32.91  | [Nio912Moon3291.html](recs/Nio912Moon3291.html)   |
+| 2025-10-18 18:44:06 | Nio912   | Moonjelly  |     37.9   | [Nio912Moon3790.html](recs/Nio912Moon3790.html)   |
