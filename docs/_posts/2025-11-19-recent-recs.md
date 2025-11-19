@@ -1,5 +1,7 @@
 | Date                | Lev      | Kuski    |   Time (s) | Static rec                                        |
 |:--------------------|:---------|:---------|-----------:|:--------------------------------------------------|
+| 2025-11-19 02:43:48 | SEMB02   | Dorknoob |     35.052 | [semb02sl3505.html](recs/semb02sl3505.html)       |
+| 2025-11-19 02:43:04 | SEMB02   | Dorknoob |     30.557 | [semb02sl3055.html](recs/semb02sl3055.html)       |
 | 2025-11-18 23:48:38 | Chi633   | BlaZtek  |     21.45  | [Chi633BlaZ2145.html](recs/Chi633BlaZ2145.html)   |
 | 2025-11-18 22:07:14 | lousgrav | iCS      |     21.8   | [lousgraviCS2180.html](recs/lousgraviCS2180.html) |
 | 2025-11-18 16:49:53 | jbl1874  | Rigger   |     19.412 | [jbl1874Rigger.html](recs/jbl1874Rigger.html)     |
@@ -18,5 +20,3 @@
 | 2025-11-16 16:25:51 | Ramnal29 | Raven    |     59.911 | [ramnal29rav5991.html](recs/ramnal29rav5991.html) |
 | 2025-11-16 16:25:22 | Ramnal34 | Raven    |     31.994 | [ramnal34rav3199.html](recs/ramnal34rav3199.html) |
 | 2025-11-16 16:24:55 | Ramnal24 | Raven    |     39.717 | [ramnal24rav.html](recs/ramnal24rav.html)         |
-| 2025-11-16 16:24:44 | Ramnal18 | Raven    |     13.092 | [ramnal18rav.html](recs/ramnal18rav.html)         |
-| 2025-11-16 16:24:32 | Ramnal14 | Raven    |     27.482 | [ramnal14rav.html](recs/ramnal14rav.html)         |
